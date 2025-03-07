@@ -37,7 +37,7 @@ class HomeScreen extends ConsumerWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             const Text(
-              'Tasbeeh Counter',
+              'Tasbeeh Counter By Ali',
               style: TextStyle(
                 color: Colors.white,
               ),
